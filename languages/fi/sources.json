@@ -1,5 +1,5 @@
 {
-	"command.language.current": "Current language is:  :%s:  (%s)",
+	"command.language.current": "Nykyinen kieli on: :%s: (%s)",
 	"command.language.info": "These are all available languages that the bot currently supports. If you want to set one of them, please use the language key behind the flag.",
 	"command.language.field": ":%s:  (%s)",
 	"command.language.notfound": "Language is not available. Use /language <list>",
