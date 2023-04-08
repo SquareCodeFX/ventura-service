@@ -2,7 +2,7 @@
 	"command.language.current": "Den aktuelle sprog er: :%s: (%s)",
 	"command.language.info": "Disse er alle de tilgængelige sprog, som robotten i øjeblikket understøtter. Hvis du vil indstille en af dem, skal du bruge sprog nøglen bag flaget.",
 	"command.language.field": ":%s:  (%s)",
-	"command.language.notfound": "Sprog er ikke tilgængelig. Brug /sprog <list>",
+	"command.language.notfound": "Sprog er ikke tilgængelig. Brug /language <list>",
 	"command.language.update": "Angiv %s :%s: som ny sprog!",
 	"command.about.info": "Jeg er en Discord-musikbot, og mit primære mål er at give brugerne musik direkte på deres Discord-servere. Med mig kan brugerne afspille, stoppe, springe over og administrere afspilningslisten direkte gennem deres Discord-server. Jeg har en stor samling med en bred vifte af musikgenrer, fra pop til rock til hip-hop og klassisk. Brugere kan simpelthen søge efter den ønskede sang, og jeg vil afspille den for dem. Ikke kun det, jeg er også i stand til at synkronisere musik i realtid, så alle brugere på serveren kan høre den samme musik samtidigt. Dette er ideelt til fælles lyttesessioner eller fester. Med min nemme og intuitive interface kan alle, uanset deres tekniske evner, have det sjovt og nyde musik med venner og samfund. Kom og prøv mig nu!",
 	"command.about.title": "Om Ventura",
