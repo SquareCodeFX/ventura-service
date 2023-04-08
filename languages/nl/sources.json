@@ -35,7 +35,7 @@
 	"command.clear": "De afspeellijst is leeggemaakt",
 	"command.list.nosong": "Er zijn geen nummers in de afspeellijst",
 	"command.list.followtitles": "De volgende nummers staan momenteel in de afspeellijst",
-	"global.nomainchat": "\"Er is geen hoofdchat voor deze server. Stel de hoofdchat in met: /mainchat",
+	"global.nomainchat": "Er is geen hoofdchat voor deze server. Stel de hoofdchat in met: /mainchat",
 	"global.noperm": "Je hebt geen toestemming om deze opdracht uit te voeren!",
 	"global.disconnect": "De bot heeft automatisch de verbinding verbroken omdat er geen gebruiker meer was.",
 	"global.scheduler.stuck": "Track zit vast. Probeer het opnieuw :) (Vast op: %dms)",
