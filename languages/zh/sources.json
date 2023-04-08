@@ -44,7 +44,7 @@
 	"global.scheduler.duration": "时长",
 	"global.guild.nochannel": "我们找不到适合的频道，请在执行命令前连接到音频频道！",
 	"global.guild.nomatch": "我们找不到符合您请求的内容。请确认标题是否正确拼写！",
-	"global.guild.loadfailed": "\"异常：%s",
+	"global.guild.loadfailed": "异常：%s",
 	"global.guild.forcesong": "正在强制播放歌曲…",
 	"global.guild.play": "正在播放歌曲…",
 	"global.guild.queue": "请求已加入播放列表",
