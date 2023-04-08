@@ -1,8 +1,8 @@
 {
 	"command.language.current": "Nykyinen kieli on: :%s: (%s)",
-	"command.language.info": "These are all available languages that the bot currently supports. If you want to set one of them, please use the language key behind the flag.",
+	"command.language.info": "Tämä on kaikki kielet, joita botti tällä hetkellä tukee. Jos haluat valita jonkin niistä, käytä kielen avainta lipun takana.",
 	"command.language.field": ":%s:  (%s)",
-	"command.language.notfound": "Language is not available. Use /language <list>",
+	"command.language.notfound": "Kieli ei ole käytettävissä. Käytä /language <list> nähdäksesi käytettävissä olevat kielet.",
 	"command.language.update": "Set %s  :%s:  as new language!",
 	"command.about.info": "I am a Discord Music Bot and my main goal is to provide users with music directly on their Discord servers. With me, users can play, stop, skip, and manage the playlist, all directly through their Discord server. I have a large library with a wide range of music genres, from pop to rock to hip-hop and classical. Users can simply search for the desired song and I will play it for them. Not only that, I am also able to synchronize music in real-time, so that all users on the server can hear the same music at the same time. This is ideal for joint listening sessions or parties. With my easy and intuitive interface, anyone, regardless of their technical ability, can have a great time and enjoy music with friends and communities. Come and try me now!",
 	"command.about.title": "About Ventura",
