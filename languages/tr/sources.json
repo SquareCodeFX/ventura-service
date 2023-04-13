@@ -51,5 +51,6 @@
 	"global.radio.page": "Sayfa %d / %d",
 	"global.radio.next": "Sonraki sayfa",
 	"global.radio.previous": "Önceki sayfa",
-	"global.radio.invalid": "%s adında bir radyo bulunamadı!"
+	"global.radio.invalid": "%s adında bir radyo bulunamadı!",
+	"global.verification.denied": "Your Discord guild must be verified to use this feature"
 }

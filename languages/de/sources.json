@@ -51,5 +51,6 @@
 	"global.radio.page": "Seite %d / %d",
 	"global.radio.next": "Nächste Seite",
 	"global.radio.previous": "Letzte Seite",
-	"global.radio.invalid": "Kein Radio mit dem Namen %s gefunden!"
+	"global.radio.invalid": "Kein Radio mit dem Namen %s gefunden!",
+	"global.verification.denied": "Your Discord guild must be verified to use this feature"
 }

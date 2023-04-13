@@ -51,5 +51,6 @@
 	"global.radio.page": "Side %d / %d",
 	"global.radio.next": "Neste side",
 	"global.radio.previous": "Forrige side",
-	"global.radio.invalid": "Ingen radio med navnet %s funnet!"
+	"global.radio.invalid": "Ingen radio med navnet %s funnet!",
+	"global.verification.denied": "Your Discord guild must be verified to use this feature"
 }

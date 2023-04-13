@@ -51,5 +51,6 @@
 	"global.radio.page": "페이지 %d / %d",
 	"global.radio.next": "다음 페이지",
 	"global.radio.previous": "이전 페이지",
-	"global.radio.invalid": "%s라는 이름의 라디오를 찾을 수 없습니다!"
+	"global.radio.invalid": "%s라는 이름의 라디오를 찾을 수 없습니다!",
+	"global.verification.denied": "Your Discord guild must be verified to use this feature"
 }

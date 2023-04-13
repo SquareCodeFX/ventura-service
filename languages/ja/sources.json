@@ -51,5 +51,6 @@
 	"global.radio.page": "ページ%d / %d",
 	"global.radio.next": "次のページ",
 	"global.radio.previous": "前のページ",
-	"global.radio.invalid": "名前が%sのラジオが見つかりませんでした！"
+	"global.radio.invalid": "名前が%sのラジオが見つかりませんでした！",
+	"global.verification.denied": "Your Discord guild must be verified to use this feature"
 }

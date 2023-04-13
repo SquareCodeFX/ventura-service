@@ -51,5 +51,6 @@
 	"global.radio.page": "Страница %d / %d",
 	"global.radio.next": "Следующая страница",
 	"global.radio.previous": "Предыдущая страница",
-	"global.radio.invalid": "Радио с названием %s не найдено!"
+	"global.radio.invalid": "Радио с названием %s не найдено!",
+	"global.verification.denied": "Your Discord guild must be verified to use this feature"
 }
