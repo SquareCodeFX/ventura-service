@@ -51,5 +51,6 @@
 	"global.radio.page": "الصفحة %d / %d",
 	"global.radio.next": "الصفحة التالية",
 	"global.radio.previous": "الصفحة السابقة",
-	"global.radio.invalid": "لم يتم العثور على محطة إذاعية باسم %s!"
+	"global.radio.invalid": "لم يتم العثور على محطة إذاعية باسم %s!",
+	"global.verification.denied": "Your Discord guild must be verified to use this feature"
 }
