@@ -52,5 +52,5 @@
 	"global.radio.next": "Pagina următoare",
 	"global.radio.previous": "Pagina anterioară",
 	"global.radio.invalid": "Nu am putut găsi nicio stație radio cu numele %s!",
-	"global.verification.denied": "Your Discord guild must be verified to use this feature"
+	"global.verification.denied": "Guilda ta de Discord trebuie verificată pentru a utiliza această funcție"
 }
