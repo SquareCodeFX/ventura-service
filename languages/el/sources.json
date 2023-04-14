@@ -52,5 +52,5 @@
 	"global.radio.next": "Επόμενη σελίδα",
 	"global.radio.previous": "Προηγούμενη σελίδα",
 	"global.radio.invalid": "Δεν βρέθηκε ραδιόφωνο με το όνομα %s!",
-	"global.verification.denied": "Your Discord guild must be verified to use this feature"
+	"global.verification.denied": "Η συντεχνία σας στο Discord πρέπει να επαληθευτεί για να χρησιμοποιήσετε αυτήν τη λειτουργία"
 }

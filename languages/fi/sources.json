@@ -52,5 +52,5 @@
 	"global.radio.next": "Seuraava sivu",
 	"global.radio.previous": "Edellinen sivu",
 	"global.radio.invalid": "Ei radiota nimellä %s löydetty!",
-	"global.verification.denied": "Your Discord guild must be verified to use this feature"
+	"global.verification.denied": "Discord-yhteisösi on varmistettava tämän toiminnon käyttämiseksi"
 }

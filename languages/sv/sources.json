@@ -52,5 +52,5 @@
 	"global.radio.next": "Nästa sida",
 	"global.radio.previous": "Föregående sida",
 	"global.radio.invalid": "Ingen radiokanal med namnet %s hittades!",
-	"global.verification.denied": "Your Discord guild must be verified to use this feature"
+	"global.verification.denied": "Din Discord-guild måste verifieras för att använda den här funktionen"
 }

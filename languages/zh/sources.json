@@ -52,5 +52,5 @@
 	"global.radio.next": "下一页",
 	"global.radio.previous": "上一页",
 	"global.radio.invalid": "找不到名称为 %s 的电台！",
-	"global.verification.denied": "Your Discord guild must be verified to use this feature"
+	"global.verification.denied": "您的 Discord 公会必须进行验证才能使用此功能。"
 }
