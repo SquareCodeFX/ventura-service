@@ -70,5 +70,9 @@
   {
     "title": "Antenne Bayern",
     "url": "http://mp3channels.webradio.antenne.de/antenne"
+  },
+  {
+    "title": "Radio Salue",
+    "url": "http://internetradio.salue.de:8000/salue.mp3"
   }
 ]
