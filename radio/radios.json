@@ -50,5 +50,21 @@
   {
     "title": "Bollerwagen",
     "url": "http://player.ffn.de/radiobollerwagen.mp3"
+  },
+  {
+    "title": "REYFM#original",
+    "url": "https://listen.reyfm.de/original_192kbps.mp3"
+  },
+  {
+    "title": "REYFM#chillout",
+    "url": "https://listen.reyfm.de/chillout_192kbps.mp3"
+  },
+  {
+    "title": "REYFM#oldschool",
+    "url": "https://listen.reyfm.de/oldschool_192kbps.mp3"
+  },
+  {
+    "title": "REYFM#houseparty",
+    "url": "https://listen.reyfm.de/houseparty_192kbps.mp3"
   }
 ]
