@@ -74,5 +74,9 @@
   {
     "title": "Radio Salue",
     "url": "http://internetradio.salue.de:8000/salue.mp3"
-  }
+  },
+  {
+    "title": "Jam FM",
+    "url": "http://stream.jam.fm/jamfm-nmr/mp3-192/"
+  }  
 ]
